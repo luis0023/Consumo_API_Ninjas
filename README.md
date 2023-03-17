@@ -1,1 +1,1 @@
-# CONSUMO_API_REST
+# CONSUMO_API_Ninjas
